@@ -1,0 +1,11 @@
+C:\Users\samy_\OneDrive\Área de Trabalho\Capgemini\DesafioCalculadora\DesafioCalculadora\bin\Debug\net5.0\DesafioCalculadora.deps.json
+C:\Users\samy_\OneDrive\Área de Trabalho\Capgemini\DesafioCalculadora\DesafioCalculadora\bin\Debug\net5.0\DesafioCalculadora.dll
+C:\Users\samy_\OneDrive\Área de Trabalho\Capgemini\DesafioCalculadora\DesafioCalculadora\bin\Debug\net5.0\ref\DesafioCalculadora.dll
+C:\Users\samy_\OneDrive\Área de Trabalho\Capgemini\DesafioCalculadora\DesafioCalculadora\bin\Debug\net5.0\DesafioCalculadora.pdb
+C:\Users\samy_\OneDrive\Área de Trabalho\Capgemini\DesafioCalculadora\DesafioCalculadora\obj\Debug\net5.0\DesafioCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samy_\OneDrive\Área de Trabalho\Capgemini\DesafioCalculadora\DesafioCalculadora\obj\Debug\net5.0\DesafioCalculadora.AssemblyInfoInputs.cache
+C:\Users\samy_\OneDrive\Área de Trabalho\Capgemini\DesafioCalculadora\DesafioCalculadora\obj\Debug\net5.0\DesafioCalculadora.AssemblyInfo.cs
+C:\Users\samy_\OneDrive\Área de Trabalho\Capgemini\DesafioCalculadora\DesafioCalculadora\obj\Debug\net5.0\DesafioCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\samy_\OneDrive\Área de Trabalho\Capgemini\DesafioCalculadora\DesafioCalculadora\obj\Debug\net5.0\DesafioCalculadora.dll
+C:\Users\samy_\OneDrive\Área de Trabalho\Capgemini\DesafioCalculadora\DesafioCalculadora\obj\Debug\net5.0\ref\DesafioCalculadora.dll
+C:\Users\samy_\OneDrive\Área de Trabalho\Capgemini\DesafioCalculadora\DesafioCalculadora\obj\Debug\net5.0\DesafioCalculadora.pdb
