@@ -1,0 +1,27 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+J:\Programming\proj_samy\CadastroAnuncio\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+J:\Programming\proj_samy\CadastroAnuncio\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+J:\Programming\proj_samy\CadastroAnuncio\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+J:\Programming\proj_samy\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+J:\Programming\proj_samy\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+J:\Programming\proj_samy\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+J:\Programming\proj_samy\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+J:\Programming\proj_samy\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+J:\Programming\proj_samy\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\samy_\OneDrive\Área de Trabalho\desafio-capgemini\CadastroAnuncio\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\samy_\OneDrive\Área de Trabalho\desafio-capgemini\CadastroAnuncio\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\samy_\OneDrive\Área de Trabalho\desafio-capgemini\CadastroAnuncio\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\samy_\OneDrive\Área de Trabalho\desafio-capgemini\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\samy_\OneDrive\Área de Trabalho\desafio-capgemini\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\samy_\OneDrive\Área de Trabalho\desafio-capgemini\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\samy_\OneDrive\Área de Trabalho\desafio-capgemini\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\samy_\OneDrive\Área de Trabalho\desafio-capgemini\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\samy_\OneDrive\Área de Trabalho\desafio-capgemini\CadastroAnuncio\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

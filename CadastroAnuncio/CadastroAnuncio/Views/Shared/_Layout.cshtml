@@ -1,0 +1,80 @@
+﻿@{ 
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CadastroAnuncio</title>
+</head>
+<body>
+    <style>
+        #sideNav {
+            width: 250px;
+            height: 40vh;
+            position: fixed;
+            right: -250px;
+            margin-right: 5px;
+            top: 15px;
+            background: linear-gradient(to right, #9B72AA, #8e54e9);
+            z-index: 2;
+            border-radius: 30px;
+        }
+
+        ul {
+            list-style: none;
+            margin: 50px 20px;
+            padding-top: 40px;
+        }
+
+        li {
+            padding: 15px;
+        }
+
+            li:hover {
+                letter-spacing: 3px;
+                transition: all 0.8s ease;
+            }
+
+        #menuBtn {
+            width: 50px;
+            position: fixed;
+            right: 65px;
+            top: 35px;
+            z-index: 2;
+            cursor: pointer;
+        }
+    </style>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <nav id="sideNav">
+        <ul>
+            <li><a asp-controller="Home" asp-action="Index">HOME</a></li>
+            <li><a asp-controller="Home" asp-action="Anuncio">CADASTRAR</a></li>
+            <li><a asp-controller="Home" asp-action="Consulta">CONSULTAR</a></li>
+        </ul>
+    </nav>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        var menuBtn = document.getElementById("menuBtn");
+        var sideNav = document.getElementById("sideNav");
+
+        sideNav.style.right = "-250px";
+        menuBtn.onclick = function () {
+            if (sideNav.style.right == "-250px") {
+                sideNav.style.right = 0;
+            } else {
+                sideNav.style.right = "-250px"
+            }
+        }
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

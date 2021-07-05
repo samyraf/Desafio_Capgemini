@@ -1,0 +1,155 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    @@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+    * {
+        margin: 0;
+        padding: 0;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #header {
+        height: 100vh;
+        background-image: url(../Images/background.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .content-container {
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+
+    .logo {
+        margin-top: 40px;
+        width: 100px;
+    }
+
+    .text {
+        max-width: 600px;
+        margin-top: 80px;
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+
+    .desc {
+        font-size: 15px;
+    }
+
+    .desc1 {
+        font-size: 18px;
+    }
+
+    .square {
+        height: 12px;
+        width: 12px;
+        display: inline-block;
+        background-color: #9B72AA;
+        margin: 15px 0;
+    }
+
+    a {
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .btn {
+        left: 30px;
+        margin: 50px;
+        width: 200px;
+        text-align: center;
+        text-decoration: none;
+        padding: 20px 50px;
+        font-size: 1.5rem;
+        position: relative;
+        background: linear-gradient(to left, #9B72AA, #8e54e9);
+        color: #fff;
+        border-radius: 50px;
+        transition: transform 0.3s ease;
+    }
+
+        .btn::after, .btn::before {
+            content: "";
+            position: absolute;
+            opacity: 0.3;
+            background: linear-gradient(to right, #9B72AA, #8e54e9);
+            border-radius: inherit;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            bottom: 0;
+            z-index: -1;
+            transition: transform 0.3s ease;
+        }
+
+        .btn:hover {
+            letter-spacing: 5px;
+            transform: translate(-12px, -12px);
+        }
+
+            .btn:hover::after {
+                transform: translate(6px, 6px);
+            }
+
+            .btn:hover::before {
+                transform: translate(12px, 12px);
+            }
+
+    #sideNav {
+        width: 250px;
+        height: 40vh;
+        position: fixed;
+        right: -250px;
+        margin-right: 5px;
+        top: 15px;
+        background: linear-gradient(to right, #9B72AA, #8e54e9);
+        z-index: 2;
+        border-radius: 30px;
+    }
+
+    ul {
+        list-style: none;
+        margin: 50px 20px;
+        padding-top: 40px;
+    }
+
+    li {
+        padding: 15px;
+    }
+
+        li:hover {
+            letter-spacing: 3px;
+            transition: all 0.8s ease;
+        }
+
+    #menuBtn {
+        width: 50px;
+        position: fixed;
+        right: 65px;
+        top: 35px;
+        z-index: 2;
+        cursor: pointer;
+    }
+</style>
+<section id="header">
+    <div class="content-container ">
+        <img src="./Images/logo.png" class="logo">
+        <div class="text">
+            <h1>Cadastre seu anúncio <br> e receba um relatório completo</h1>
+            <span class="square"></span>
+            <p class="desc">Um relatório com base no seu investimento diário</p>
+            <a asp-controller="Home" asp-action="Anuncio">
+                <div class="btn1">
+                    <div class="btn">CADASTRAR</div>
+                </div>
+            </a>
+            <p class="desc1">Já possui anúncio cadastrado? <br> Acesse o menu e consulte seu relatório!</p>
+        </div>
+    </div>
+</section>
+<img src="./Images/menu.png" id="menuBtn" style="border-radius: 10px;">

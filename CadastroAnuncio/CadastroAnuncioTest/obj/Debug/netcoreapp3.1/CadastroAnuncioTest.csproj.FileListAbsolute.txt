@@ -1,0 +1,196 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\CadastroAnuncioTest.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\CadastroAnuncioTest.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\CadastroAnuncioTest.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\CadastroAnuncioTest.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\CadastroAnuncioTest.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.genruntimeconfig.cache
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\CadastroAnuncioTest.deps.json
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\CadastroAnuncioTest.runtimeconfig.json
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\CadastroAnuncioTest.runtimeconfig.dev.json
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\CadastroAnuncioTest.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\CadastroAnuncioTest.pdb
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\testhost.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Entities.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\bin\Debug\netcoreapp3.1\Entities.pdb
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.csprojAssemblyReference.cache
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.AssemblyInfoInputs.cache
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.AssemblyInfo.cs
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.csproj.CoreCompileInputs.cache
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.csproj.CopyComplete
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.dll
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.pdb
+J:\Programming\proj_samy\CadastroAnuncio\CadastroAnuncioTest\obj\Debug\netcoreapp3.1\CadastroAnuncioTest.genruntimeconfig.cache

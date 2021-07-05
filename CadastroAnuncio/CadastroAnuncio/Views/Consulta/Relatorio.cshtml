@@ -1,0 +1,119 @@
+﻿@{
+
+}
+<style>
+    @@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+    * {
+        margin: 0;
+        border: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #header {
+        height: 100vh;
+        background-image: url(/images/background3.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .content-container {
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+
+    .logo {
+        margin-top: 40px;
+        width: 100px;
+    }
+
+    a {
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .form {
+        background: white;
+        max-width: 900px;
+        height: 550px;
+        padding: 2rem;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+        border-radius: 30px;
+        border: 1px #8e2de2 solid;
+        margin-left: 260px;
+        margin-top: -80px;
+    }
+
+    h2 {
+        font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 2rem;
+        position: relative;
+        text-align: center;
+    }
+
+        h2::before {
+            content: '';
+            position: absolute;
+            height: 8px;
+            width: 45px;
+            bottom: 1px;
+            left: 348px;
+            border-radius: 8px;
+            background: linear-gradient(45deg, #9B72AA, #8e54e9);
+        }
+
+    table {
+        margin-left: 15px;
+        width: 800px;
+        border: solid 1px white;
+    }
+
+    th {
+        border: solid 1px white;
+        text-align: center;
+    }
+
+    td {
+        border-radius: 10px;
+        border: solid 1px #8e2de2;
+        text-align: center;
+    }
+
+    th.th1 {
+        width: 200px;
+    }
+</style>
+
+<section id="header">
+    <div class="content-container">
+        <img src="~/Images/logo.png" class="logo">
+    </div>
+    <div class="form">
+        <h2>Relatório</h2>
+        <table>
+            <tr>
+                <th class="th1">Anúncio</th>
+                <th>Qtd máxima de visualizações</th>
+                <th>Qtd máxima de cliques</th>
+                <th>Qtd máxima de compartilhamentos</th>
+            </tr>
+            <tr>
+                <td>Teste Registro</td>
+                <td>5</td>
+                <td>6</td>
+                <td>30</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>1</td>
+                <td>1</td>
+                <td>1</td>
+            </tr>
+        </table>
+    </div>
+</section>
+<img src="~/Images/menu.png" id="menuBtn" style="border-radius: 10px;">

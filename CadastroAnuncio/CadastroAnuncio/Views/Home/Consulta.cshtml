@@ -1,0 +1,127 @@
+﻿@{
+
+}
+<style>
+    @@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+    * {
+        margin: 0;
+        border: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #header {
+        height: 100vh;
+        background-image: url(../Images/background3.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .content-container {
+        padding-right: 100px;
+        padding-left: 100px;
+    }
+
+    .logo {
+        margin-top: 40px;
+        width: 100px;
+    }
+
+    a {
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .form {
+        background: white;
+        max-width: 550px;
+        min-height: 0vh;
+        padding: 3rem;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+        border-radius: 30px;
+        border: 1px #8e2de2 solid;
+        margin-left: 400px;
+        margin-top: 0px;
+    }
+
+    .btn {
+        width: 200px;
+        height: 50px;
+        background: linear-gradient(to left, #9B72AA, #8e54e9);
+        cursor: pointer;
+        border-radius: 50px;
+        margin-left: 120px;
+        margin-top: 2rem;
+        font-size: 1.3rem;
+        transition: all 0.3s ease;
+        color: white;
+        padding-left: 45px;
+        padding-top: 8px;
+    }
+
+        .btn:hover {
+            letter-spacing: 3px;
+            transition: all 0.8s ease;
+            background: linear-gradient(to right, #9B72AA, #8e54e9);
+        }
+
+    h2 {
+        font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 2rem;
+        position: relative;
+        text-align: center;
+    }
+
+        h2::before {
+            content: '';
+            position: absolute;
+            height: 8px;
+            width: 60px;
+            bottom: 1px;
+            left: 158px;
+            border-radius: 8px;
+            background: linear-gradient(45deg, #9B72AA, #8e54e9);
+        }
+
+    .box {
+        padding: 20px;
+        margin: 5px;
+        height: 30px;
+        width: 260px;
+        border-radius: 50px;
+        border: 1px solid #8e2de2;
+    }
+</style>
+
+<section id="header">
+    <div class="content-container ">
+        <img src="../Images/logo.png" class="logo">
+    </div>
+    <div class="form">
+        <h2>Consulta</h2>
+        <form method="post" action="" runat="server">
+            <div class="search-box" runat="server">
+                <span class="txt">Cliente</span>
+                <input runat="server" name="cliente" id="cliente" class="box" type="text" placeholder="Insira seu nome completo" required>
+            </div>
+            <div class="search-box" runat="server">
+                <span class="details">Data de início</span>
+                <input id="dataInicio" class="box" type="date" required>
+            </div>
+            <div class="search-box">
+                <span class="details">Data de término</span>
+                <input class="box" type="date" required>
+            </div>
+            <a>
+                <div class="btn">
+                    <div class="inner_btn">@Html.ActionLink("Pesquisar", "Relatorio", "Consulta", new { id = 0}, null)</div>
+                </div>
+            </a>
+        </form>
+    </div>
+</section>
+<img src="../Images/menu.png" id="menuBtn" style="border-radius: 10px;">

@@ -1,0 +1,132 @@
+﻿<style>
+    @@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+    * {
+        margin: 0;
+        border: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #header {
+        height: 100vh;
+        background-image: url(../Images/background2.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .content-container {
+        min-width: 100vw;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .form {
+        background: white;
+        max-width: 550px;
+        min-height: 60vh;
+        padding: 3rem;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+        border-radius: 30px;
+        border: 1px #8e2de2 solid;
+    }
+
+    .logo {
+        width: 100px;
+        margin-left: 165px;
+    }
+
+    h2 {
+        font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 2rem;
+        position: relative;
+        text-align: center;
+    }
+
+        h2::before {
+            content: '';
+            position: absolute;
+            height: 8px;
+            width: 60px;
+            bottom: 1px;
+            left: 92px;
+            border-radius: 8px;
+            background: linear-gradient(45deg, #9B72AA, #8e54e9);
+        }
+
+    .box {
+        padding: 20px;
+        margin: 5px;
+        height: 30px;
+        width: 260px;
+        border-radius: 50px;
+        border: 1px solid #8e2de2;
+    }
+
+    .btn {
+        width: 200px;
+        height: 50px;
+        background: linear-gradient(to left, #9B72AA, #8e54e9);
+        cursor: pointer;
+        border-radius: 50px;
+        margin-left: 120px;
+        margin-top: 2rem;
+        font-size: 1.3rem;
+        transition: all 0.3s ease;
+        color: white;
+    }
+
+        .btn:hover {
+            letter-spacing: 3px;
+            transition: all 0.8s ease;
+            background: linear-gradient(to right, #9B72AA, #8e54e9);
+        }
+
+    a {
+        text-decoration: none;
+        color: #fff;
+    }    
+</style>
+
+<section id="header">
+    <main class="content-container">
+        <div class="form">
+            <img src="../Images/logo.png" class="logo">
+            <h2>Cadastramento</h2>
+            <form>
+                <div class="input-field">
+                    <span class="details">Cliente</span>
+                    <input id="cliente" class="box" type="text" placeholder="Insira seu nome completo" required>
+                </div>
+                <div class="input-field">
+                    <span class="details">Anúncio</span>
+                    <input id="nomeAnuncio" class="box" type="text" placeholder="Insira o nome do anúncio" required>
+                </div>
+                <div class="input-field">
+                    <span class="details">Data de início</span>
+                    <input id="dataInicio" class="box" type="date" required>
+                </div>
+                <div class="input-field">
+                    <span class="details">Data de término</span>
+                    <input id="dataTermino" class="box" type="date" required>
+                </div>
+                <div class="input-field">
+                    <span class="details">Investimento diário</span>
+                    <input id="investimentoPorDia" class="box" type="number" placeholder="Insira o valor em R$" required>
+                </div>
+                <div class="button">
+                    <button class="btn" type="submit" onclick="inserir()">Cadastrar</button>
+                </div>
+            </form>
+        </div>
+    </main>
+</section>
+
+<img src="../Images/menu.png" id="menuBtn" style="border-radius: 10px;">
+
+<script src="~/js/anuncio.js"></script>
