@@ -16,3 +16,6 @@ Consiste das entidades do projeto
 # Como executar
 - Pegar o datasource do arquivo Anuncio.mdf e colocar em AnuncioContext dentro de appsettings.json
 - Executar Ctrl+F5 no Visual Studio 
+
+# Pendente
+- Consulta para emissão do relatório
